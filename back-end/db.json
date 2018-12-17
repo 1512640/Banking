@@ -1,0 +1,74 @@
+{
+  "customer": [
+    {
+      "stt": 1,
+      "addr": "227 Nguyễn Văn Cừ",
+      "name": "Tuan ",
+      "sdt": "089574376",
+      "note": "",
+      "state": "đã nhận xe",
+      "iat": 1544519989
+    },
+    {
+      "stt": 2,
+      "addr": "228 Nguyễn Văn Cừ",
+      "name": "TTa ",
+      "sdt": "089574376",
+      "note": "",
+      "state": "đã nhận xe",
+      "iat": 1544520009
+    },
+    {
+      "stt": 3,
+      "addr": "229 Nguyễn Văn Cừ",
+      "name": "TKa ",
+      "sdt": "089574376",
+      "note": "",
+      "state": "đã nhận xe",
+      "iat": 1544520016
+    },
+    {
+      "stt": 4,
+      "addr": "222 Nguyễn Văn Cừ",
+      "name": "HU ",
+      "sdt": "089574376",
+      "note": "",
+      "state": "đã nhận xe",
+      "iat": 1544520026
+    }
+  ],
+  "driver": [
+    {
+      "stt": 1,
+      "name": "Van B",
+      "pass": "123456",
+      "add": "256 Lý Thường Kiệt",
+      "status": "Ready",
+      "iat": 1542993941
+    },
+    {
+      "stt": 2,
+      "name": "Kiet",
+      "pass": "123",
+      "add": "256 Lý Thường Kiệt",
+      "status": "Ready",
+      "iat": 1542999567
+    },
+    {
+      "stt": 3,
+      "name": "An",
+      "pass": "123",
+      "add": "256 Lý Thường Kiệt",
+      "status": "Ready",
+      "iat": 1542999567
+    },
+    {
+      "stt": 4,
+      "name": "Tuan",
+      "pass": "123",
+      "add": "256 Lý Thường Kiệt",
+      "status": "Ready",
+      "iat": 1542999567
+    }
+  ]
+}
